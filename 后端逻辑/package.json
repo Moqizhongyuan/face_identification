@@ -1,0 +1,14 @@
+{
+  "name": "face-identification",
+  "version": "1.0.0",
+  "description": "后端实现百度人脸识别的api调用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moqizhongyuan",
+  "license": "ISC",
+  "dependencies": {
+    "baidu-aip-sdk": "^4.16.16"
+  }
+}
